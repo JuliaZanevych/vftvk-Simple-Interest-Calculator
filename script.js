@@ -16,7 +16,7 @@ function updateRate(){
     rate.value
     document.getElementById("rate_val").innerText = rate.value + "%"}
 
-finishPage = () =>{
+yearsPage = () =>{
     var rate = document.getElementById("rate");
     var principal = document.getElementById("principal");
     var years = document.getElementById("years");
